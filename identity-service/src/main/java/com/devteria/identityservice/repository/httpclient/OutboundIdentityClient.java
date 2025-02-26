@@ -1,4 +1,4 @@
-package com.devteria.identityservice.repository;
+package com.devteria.identityservice.repository.httpclient;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.MediaType;
